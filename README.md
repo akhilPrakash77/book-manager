@@ -22,6 +22,8 @@ Mongoose
 
 # Setup and Installation
 Clone the repository: https://github.com/akhilPrakash77/book-manager.git
+if you are not able to clone the front end from this repository
+# frontend only repository :https://github.com/akhilPrakash77/frontend.git
 Navigate to the backend directory:cd backend
 Install the dependencies: npm install
 Create a .env file in the backend directory and add your MongoDB connection string:MONGO_URI=mongodb://localhost:27017/books-db
