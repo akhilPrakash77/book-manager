@@ -21,3 +21,4 @@ MongoDB
 Mongoose
 
 # Setup and Installation
+Clone the repository:
